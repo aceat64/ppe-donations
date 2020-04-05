@@ -10,6 +10,8 @@ Before starting, please read and agree to the following:
 3. I will follow the guidelines for as best as I can.
 4. I will do my part in limiting the spread of Coronavirus by going out only when required and by maintaining social distancing.
 
+## Updates
+Please check back at this page frequently, as we may make changes to process, best practices and donation drop-off locations.
 
 ## What We Need
 There are 3 primary categories of items we need. Headbands printed on 3d printers, sewn ties to hold the headband on the user’s head and certain types of plastic sheets that can be used as improvised visors for the NIH approved face shield design. While many people have used this design with elastic straps or rubber bands, the input we’ve received from end-users is that ties are superior, as it allows them to pick the tightness they prefer, which increases comfort and allows them to wear the face shields for longer.
