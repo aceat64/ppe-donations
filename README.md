@@ -72,7 +72,7 @@ Example Visor Options
 3. If someone else is dropping off materials when you arrive, wait in your vehicle until they are done. Maintaining social distancing helps prevent the spread of Coronavirus.
 4. If possible, please use hand sanitizer to clean your hands, and put on clean/unused gloves before exiting your vehicle.
 5. Place your items in the donation box as indicated by signage.
-6. Record your donation via this form: TODO::FORM
+6. **IMPORTANT!** Record your donation using [this form](https://docs.google.com/forms/d/e/1FAIpQLSeufs_A6_XCnf65XNlsDAwN6ECZPi3XLqRlp83tyoBMacYtQw/viewform).
 7. Don’t forget to wash your hands when you get home. Avoid touching your face.
 
 ### Drop-Off Locations
