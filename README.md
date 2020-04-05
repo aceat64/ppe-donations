@@ -76,7 +76,12 @@ Example Visor Options
 7. Don’t forget to wash your hands when you get home. Avoid touching your face.
 
 ### Drop-Off Locations
-TBD
+#### Dallas Makerspace
+[1825 Monetary Lane, Suite 104, Carrollton, TX 75010](https://goo.gl/maps/YAHaSz75sjb2BRur7)
+
+Drop-off is open 24/7. Donation boxes are black and yellow, located out front.
+
+![Dallas Makerspace donation drop-off boxes](/images/dms-dropoff.jpg?raw=true)
 
 ## Use Our System
 Do you want to use these instructions and files to setup a similar system? GOOD! Do it! **You don't need to ask, everything here is free to use without restriction.** Just promise that you'll do your best to help out, even if that means realizing the best way to help is by simply staying home and keeping the virus from spreading.
