@@ -80,3 +80,8 @@ TBD
 
 ## Use Our System
 Do you want to use these instructions and files to setup a similar system? GOOD! Do it! **You don't need to ask, everything here is free to use without restriction.** Just promise that you'll do your best to help out, even if that means realizing the best way to help is by simply staying home and keeping the virus from spreading.
+
+## Contact / Other Donations
+We are not accepting any other kinds donations. If you have commercial PPE or anything that could be useful, please donate it directly to an organization that can use it.
+
+If you'd like to contact us about this initiative, please send an email to ppe@beyondweb.net
