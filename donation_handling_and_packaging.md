@@ -5,9 +5,9 @@
 1. IF ANYONE IN YOUR HOUSEHOLD IS SICK, DO NOT PARTICIPATE.
 1. If anyone in your household becomes sick, notify coordinators IMMEDIATELY.
 1. Maintain 10 feet distance from each other at all times.
-1. Wear masks and fresh gloves at all when in the same room as the donations/PPE.
-1. Wash hands with soap for at least 20 seconds upon arriving.
-1. Regularly re-wash hands.
+1. Wear masks and fresh gloves at all times when in the same room as the donations/PPE.
+1. Wash hands with soap for at least 20 seconds upon arriving. Follow [CDC guidelines on handwashing](https://www.cdc.gov/handwashing/when-how-handwashing.html).
+1. Regularly re-wash hands. Again, follow [CDC guidelines on handwashing](https://www.cdc.gov/handwashing/when-how-handwashing.html) (can not be stressed enough).
 
 ## Collection and Processing Procedure
 1. A new batch number is created.
