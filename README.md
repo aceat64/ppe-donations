@@ -25,7 +25,7 @@ There are 3 primary categories of items we need. Headbands printed on 3d printer
   * The STL file itself is also available in this repo, but please use the NIH website as there may be critical updates to the design.
 2. Thankfully the temperatures involved in 3d printing are high enough to mostly ensure the print will leave the printer clean. It is up to you to ensure it stays that way.
 3. When the print completes, do not touch it until you have cleaned your hands. If possible wear new/unused gloves as well. Follow [CDC guidelines on handwashing](https://www.cdc.gov/handwashing/when-how-handwashing.html).
-4. Most prints will come with rough or sharp edges on the parts of the headband that touch the user’s forehead. These edges need to be cleaned up before the part is donated. Ensure that any tolls you use to clean the part have been sanitized with alcohol wipes or other cleaning solutions that are confirmed effective against Coronavirus.
+4. Most prints will come with rough or sharp edges on the parts of the headband that touch the user’s forehead. These edges need to be cleaned up before the part is donated. Ensure that any tools you use to clean the part have been sanitized with alcohol wipes or other cleaning solutions that are confirmed effective against Coronavirus.
 5. Once the part is clean and ready to be donated, place it in a clean and sealed plastic bag (e.g. a ziplock bag).
 6. Write your name and the date the part was sealed on the outside of the bag.
 7. Do not open the bag again.
