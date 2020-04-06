@@ -33,7 +33,7 @@ There are 3 primary categories of items we need. Headbands printed on 3d printer
 
 
 ### Sewn Ties
-Specially we are looking for ties that are ⅜” wide and about 24” long. There are many ways to accomplish this and whatever works best for you is acceptable, as long as the cleaning procedures are followed.
+Specifically we are looking for ties that are ⅜” wide and about 24” long. There are many ways to accomplish this and whatever works best for you is acceptable, as long as the cleaning procedures are followed.
 
 #### Making A Sewn Tie With Basic Sewing Tools
 1. Finger press 1 ½” strip of fabric in half.
