@@ -1,5 +1,5 @@
 # Donation Instructions
-The Coronavirus Pandemic (COVID-19) has placed a great strain on the supply chains for various kinds of Personal Protective Equipment (PPE) desperately needed by those working the front lines in the fight against the disease. Due to the widespread availability and private ownership of 3d printers and sewing machines, we have a way to fill some of the gaps in PPE availability. But just building PPE isn’t enough, we need to do our best to ensure what we build is safe, reliable and easy to use. The primary goal of our work is to build face shields, based off a design approved for use by the U.S. Department of Health and Human Services - National Institutes of Health (NIH). The procedures we’ve built allow us to do our best to establish a “chain of custody” that will help ensure the PPE we provide has not been compromised.
+The Coronavirus Pandemic (COVID-19) has placed a great strain on the supply chains for various kinds of Personal Protective Equipment (PPE) desperately needed by those working the front lines in the fight against the disease. Due to the widespread availability and private ownership of 3d printers and sewing machines, we have a way to fill some of the gaps in PPE availability. But just building PPE isn’t enough, we need to do our best to ensure what we build is safe, reliable and easy to use. The primary goal of our work is to build face shields, based off a design approved for use by the U.S. Department of Health and Human Services - National Institutes of Health (NIH). The procedures we’ve built allow us to do our best to establish a “chain of custody” that will help ensure the PPE we provide has not been compromised.  
 
 **Please read these instructions carefully, and follow them as well as you are able. It is vitally important.**
 
@@ -82,6 +82,9 @@ Example Visor Options
 Drop-off is open 24/7. Donation boxes are black and yellow, located out front.
 
 ![Dallas Makerspace donation drop-off boxes](/images/dms-dropoff.jpg?raw=true)
+
+## Where Are These Going
+The first few rounds will be going to Scottish Rite hospitals. If you represent a DFW area medical facility, first responder group (FD/PD/etc) or another group on the front lines that needs face shields, please reach out and let us know what you need.
 
 ## Use Our System
 Do you want to use these instructions and files to setup a similar system? GOOD! Do it! **You don't need to ask, everything here is free to use without restriction.** Just promise that you'll do your best to help out, even if that means realizing the best way to help is by simply staying home and keeping the virus from spreading.
