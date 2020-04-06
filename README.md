@@ -86,7 +86,10 @@ Drop-off is open 24/7. Donation boxes are black and yellow, located out front.
 ## Use Our System
 Do you want to use these instructions and files to setup a similar system? GOOD! Do it! **You don't need to ask, everything here is free to use without restriction.** Just promise that you'll do your best to help out, even if that means realizing the best way to help is by simply staying home and keeping the virus from spreading.
 
-## Contact / Other Donations
+## Other Donations
 We are not accepting any other kinds donations. If you have commercial PPE or anything that could be useful, please donate it directly to an organization that can use it.
 
+There are number of awesome groups out there coordinating manufacture and distribution of sewn face masks. If you're building these kinds of masks please check them out! One example is the Facebook group [SewStrongDallas](https://www.facebook.com/groups/3685675388169253/).
+
+## Contact Us
 If you'd like to contact us about this initiative, please send an email to ppe@beyondweb.net
