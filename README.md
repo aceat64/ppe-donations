@@ -40,11 +40,11 @@ Specifically we are looking for ties that are ⅜” wide and about 24” long. 
 2. Fold each side in to meet in the middle.
 3. Fold in half again, so that the two folds meet, it should be about ⅜” wide at this point.
 4. Stitch down the edge as closely as possible.
-5. Cut to 24”, optionally sew ends to keep them from unraveling.
+5. Cut to 20"-24" (it doesn't need to be precise), optionally sew ends to keep them from unraveling.
 
 #### Cleaning Sewn Ties
 1. Wash the completed ties using soap and a small amount of bleach.
-2. From this point forward, do not touch the ties except with freshly washed hands.If possible wear new/unused gloves as well. Follow [CDC guidelines on handwashing](https://www.cdc.gov/handwashing/when-how-handwashing.html).
+2. From this point forward, do not touch the ties except with freshly washed hands. If possible wear new/unused gloves as well. Follow [CDC guidelines on handwashing](https://www.cdc.gov/handwashing/when-how-handwashing.html).
 3. Using freshly washed hands, move the washed ties to your dryer.
 4. Once dried, again use freshly washed hands (additionally you can use clean/unused gloves) and place the ties in a clean and sealed plastic bag (e.g. a ziplock bag).
 5. Write your name, the number of ties and the date on the outside of the bag.
