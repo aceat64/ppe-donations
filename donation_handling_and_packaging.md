@@ -16,8 +16,14 @@
 1. Separate plastic, ties and prints into groups on a table with a batch number sign/placard. Be sure not to mix with other batches.
 1. Record verified donations in Google Sheet for the batch number.
 1. Materials are then moved to sanitization, and recorded in Google Sheet.
-1. Sanitization is done with UVC light. If we are at capacity, the excess will be split into a new batch (with a new number) and will be cleaned as best as possible.
-1. Once all items are sanitized, the ties are tied onto the headbands.
+1. Sanitization is done in the following wet process steps:
+  1. Intake wash with soap
+  2. Intake rinse with clean water
+  3. 20 minute soak in Steramine (or similar) solution
+  4. Rise with clean water
+  5. Air dry
+1. Additional sterilization is done with UVC light. If we are at capacity, the excess will be split into a new batch (with a new number) and will be cleaned as best as possible.
+1. Once all items are clean, the ties are tied onto the headbands.
 1. 24 headbands (with ties) and at least 24 clear plastic visors are placed into a box and sealed.
 1. Sealed packages are marked with the date, batch number and description of contents.
 1. Sealed packages are placed in the designated storage area to await transport.
