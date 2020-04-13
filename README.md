@@ -1,3 +1,5 @@
+![DFW PPE](/images/bwlogo_small.png?raw=true)
+
 # Donation Instructions
 The Coronavirus Pandemic (COVID-19) has placed a great strain on the supply chains for various kinds of Personal Protective Equipment (PPE) desperately needed by those working the front lines in the fight against the disease. Due to the widespread availability and private ownership of 3d printers and sewing machines, we have a way to fill some of the gaps in PPE availability. But just building PPE isn’t enough, we need to do our best to ensure what we build is safe, reliable and easy to use. The primary goal of our work is to build face shields, based off a design approved for use by the U.S. Department of Health and Human Services - National Institutes of Health (NIH). The procedures we’ve built allow us to do our best to establish a “chain of custody” that will help ensure the PPE we provide has not been compromised.  
 
