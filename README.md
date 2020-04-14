@@ -27,27 +27,34 @@ There are 3 primary categories of items we need. Headbands printed on 3d printer
   * The STL file itself is also available in this repo, but please use the NIH website as there may be critical updates to the design.
 2. Thankfully the temperatures involved in 3d printing are high enough to mostly ensure the print will leave the printer clean. It is up to you to ensure it stays that way.
 3. When the print completes, do not touch it until you have cleaned your hands. If possible wear new/unused gloves as well. Follow [CDC guidelines on handwashing](https://www.cdc.gov/handwashing/when-how-handwashing.html).
-4. Most prints will come with rough or sharp edges on the parts of the headband that touch the user’s forehead. These edges need to be cleaned up before the part is donated. Ensure that any tools you use to clean the part have been sanitized with alcohol wipes or other cleaning solutions that are confirmed effective against Coronavirus.
+4. Most prints will come with rough or sharp edges on the parts of the headband that touch the user’s forehead. These edges can be cleaned up before the part is donated, but if you can't do so while keeping the part sanitized don't worry about it, we can clean up the edges during assembly.
+  * Ensure that any tools you use to clean the part have been sanitized with alcohol wipes or other cleaning solutions that are confirmed effective against Coronavirus.
 5. Once the part is clean and ready to be donated, place it in a clean and sealed plastic bag (e.g. a ziplock bag).
 6. Write your name and the date the part was sealed on the outside of the bag.
 7. Do not open the bag again.
 8. Follow the Donation Drop-Off Instructions at the end of this document, to donate the headband at one of our donation drop-off points.
 
 
-### Sewn Ties
-Specifically we are looking for ties that are ⅜” wide and about 24” long. There are many ways to accomplish this and whatever works best for you is acceptable, as long as the cleaning procedures are followed.
+### Fabric Ties
+Fabric ties allow the wearer to tighten the face shield to fit their head, which helps keep it comfortable. Specifically we are looking for ties that are about ⅜” wide and about 24” long. There are many ways to accomplish this and whatever works best for you is acceptable, as long as the cleaning procedures are followed.
 
-#### Making A Sewn Tie With Basic Sewing Tools
+#### No Sewing Method: Making Ties Out Of T-Shirts
+This is the fastest and easiest way to make useful ties! We've also found these ties are much easier for us to use when assembling face shields. Instructions with pictures are in the [tshirt ties](tshirt_ties.md) file.
+
+#### Bias Tape Method: Making A Sewn Tie With Basic Sewing Tools
 1. Finger press 1 ½” strip of fabric in half.
 2. Fold each side in to meet in the middle.
 3. Fold in half again, so that the two folds meet, it should be about ⅜” wide at this point.
 4. Stitch down the edge as closely as possible.
 5. Cut to 20"-24" (it doesn't need to be precise), optionally sew ends to keep them from unraveling.
 
-#### Cleaning Sewn Ties
+Check out this great YouTube video for a simple trick to make this easier: https://www.youtube.com/watch?v=vR7sWFwo48g
+
+#### Cleaning Fabric Ties
 1. Wash the completed ties using soap and a small amount of bleach.
 2. From this point forward, do not touch the ties except with freshly washed hands. If possible wear new/unused gloves as well. Follow [CDC guidelines on handwashing](https://www.cdc.gov/handwashing/when-how-handwashing.html).
 3. Using freshly washed hands, move the washed ties to your dryer.
+  * Some people have had better luck air drying the ties, as they can get rather tangled in the dryer.
 4. Once dried, again use freshly washed hands (additionally you can use clean/unused gloves) and place the ties in a clean and sealed plastic bag (e.g. a ziplock bag).
 5. Write your name, the number of ties and the date on the outside of the bag.
 6. Do not open the bag again.
